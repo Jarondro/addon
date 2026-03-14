@@ -1,0 +1,4 @@
+Okay! Great! Now. I have some ideas to make it better.
+1st, 1 thing i noticed, when a video said Title - the move (4K) we only had 1080p available? So we need to check if theres not a 4k line in the response.
+2nd, on displaying the titles of a certain movie/series, the left bar is Prehraj.to cz, undeneath that CZ. What i want it to be is Prehraj.to, and underneath it the quality of the video. Now the right bar curretnly is xxxxp • Title - the movie, but it would be better if it would be Title - the movie, underneath 👍x (likes) 📀xx.x GB (size) and underneath that would be cz
+3rd A good idea would be to just have 1 addon, that would search cz + en, we can remove sk and put them into 1 addon, and if both of those searches return nothing we fall back to english title + czech sub-title, so if Městečko South Park: Konec obezity returned 0 results and South Park: The End of Obesity returned 0 results , we would fall back on South Park: Konec obezity
